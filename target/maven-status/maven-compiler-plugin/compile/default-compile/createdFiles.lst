@@ -1,0 +1,5 @@
+models/Product.class
+com/akunerio/mavenproject1/resources/JakartaEE10Resource.class
+controllers/ProductController.class
+com/akunerio/mavenproject1/JakartaRestConfiguration.class
+models/Model.class
